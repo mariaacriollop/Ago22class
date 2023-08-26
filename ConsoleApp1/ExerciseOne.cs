@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     internal class Exercises
     {
+        // ejercicio uno
         public static void ExecuteExercise()
         {
             int a = 0;
@@ -23,7 +24,7 @@ namespace ConsoleApp1
         }
 
 
-
+        //Ejercicio Dos
 
 
         public static void ExecuteExercise2()
@@ -45,7 +46,7 @@ namespace ConsoleApp1
 
         }
     
-
+        //Ejercicio Tres
    
     
         public static void ExecuteExercise3()

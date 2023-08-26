@@ -14,9 +14,9 @@ namespace ConsoleApp1
 
             Console.WriteLine("");
             Console.WriteLine("");
-            Console.WriteLine("1. para ingresar 3 números y obtener el promedio.");
-            Console.WriteLine("2. para ingresar la altura y base de un rectangúlo y obtener el perimetro y area de este.");
-            Console.WriteLine("3. Para ingresar temperatura en Celsius y obtenerla en grados Fahrenheit.");
+            Console.WriteLine("1. Para ingresar 3 números y obtener el promedio.");
+            Console.WriteLine("2. Para ingresar la altura y base de un rectangúlo y obtener el perimetro y area de este.");
+            Console.WriteLine("3. Para convertir la temperatura de Celsius a Fahrenheit.");
             int ejercicio = 0;
             ejercicio = int.Parse(Console.ReadLine());
 
