@@ -18,13 +18,15 @@ namespace ConsoleApp1
             {
                 case 1:
                     Console.WriteLine("Ejercicio 1");
-                    ExerciseOne.ExecuteExercise();
+                    Exercises.ExecuteExercise();
                     break; 
                 case 2:
                     Console.WriteLine("Ejercicio 2");
+                    Exercises.ExecuteExercise2();
                     break; 
                 case 3:
                     Console.WriteLine("Ejercicio 3");
+                    Exercises.ExecuteExercise3();
                     break;
 
 
